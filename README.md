@@ -8,3 +8,4 @@ Lorem Ipsum
 
 1. Open index.html in your browser
 2. hotfix branch
+3. added theses to test 
