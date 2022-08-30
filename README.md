@@ -3,6 +3,7 @@ Hello World!
 ## Sub Content 
 Lorem Ipsum
 
-## Local Development 
+## Local development
 
-1. Open idex html in your browser
+
+1. Open index.html in your browser
